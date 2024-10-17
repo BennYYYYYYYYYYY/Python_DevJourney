@@ -1,0 +1,2 @@
+0 plus any integer is an integer
+Example: 0 + one = one
