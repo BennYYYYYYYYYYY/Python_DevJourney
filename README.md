@@ -1,1 +1,1 @@
-Python DevJourney
+Python Essentials: Comprehensive Learning of Python Concepts
