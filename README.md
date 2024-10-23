@@ -1,1 +1,1 @@
-Python Essentials: Comprehensive Learning of Python Concepts
+Python Essentials: comprehensive learning of Python concepts
