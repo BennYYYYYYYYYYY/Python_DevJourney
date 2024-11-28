@@ -1,2 +1,2 @@
 **Python Essentials**: comprehensive learning of Python concepts<br>
-**Web Crawler**: I'm originally want to practice it by the E-book, but eventually, i just skip all of that, run down to Scrapy :))   
+**Web Crawler**: I originally planned to practice it using the E-book, but eventually, I just skipped all of that and jumped straight to Scrapy. :))   
